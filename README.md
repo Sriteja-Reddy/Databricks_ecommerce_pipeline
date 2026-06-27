@@ -84,7 +84,6 @@ Built on Databricks SQL Dashboard with:
 - Top 10 product categories by revenue (bar chart)
 - Top 10 states by orders (bar chart)
 - Payment type distribution (pie chart)
-![Dashboard](db image.png)
 
 
 
